@@ -1,0 +1,6 @@
+memo 2014 11 17
+https://github.com/zha8035/xinlijiankang_antong_group.git 项目git 仓库
+192.185.2.37/~yunzhu/health
+ftp  client
+192.185.2.37
+yunzhu abcd1234!
