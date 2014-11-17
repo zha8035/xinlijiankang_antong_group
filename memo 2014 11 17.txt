@@ -4,3 +4,9 @@ https://github.com/zha8035/xinlijiankang_antong_group.git 项目git 仓库
 ftp  client
 192.185.2.37
 yunzhu abcd1234!
+
+下载 sourcetree 
+注册 github账号
+克隆项目到本地
+修改后 经常 add commit
+可以用我给你们的测试环境。
